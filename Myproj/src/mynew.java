@@ -1,7 +1,7 @@
 
 public class mynew {
 public static void main(){
-	System.out.println("GIT");
+	System.out.println("jhgjhgT");
 }
 
 }
